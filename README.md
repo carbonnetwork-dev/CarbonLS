@@ -1,13 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/carbonnetwork-dev/Carbon/main/main/CarbonLogo.jpg?token=GHSAT0AAAAAAB7MEI5P6U2OIV2PKPP4P67CZBFQHKQ" height="200"></p>
 
-<h1 align="center">Carbon</h1>
+<h1 align="center">Carbon Web</h1>
 
-This is a `.bat` file that allows you to bypass the lightspeed filtering system without needing a proxy or losing performance. The code is open-source and [safe to use](https://www.virustotal.com/gui/file/a56a7d984f81c09657dbb8b61c0ad6f88aed42503c5bf09359fcfd2df139e84f)
+This is a bookmark that allows you to bypass the lightspeed filtering system without needing a proxy or losing performance.
 
 ## Getting started
-1. Click on the [`carbon.bat`](carbon.bat) file and download it.
-2. Open the file and follow the instructions.
-3. You're all set.
+1. Open a new tab and save it as a bookmark then click more
+2. Name it what ever you want and for the url paste this code in
+3. Then save it
+4.Click on the bookmark and then restart chrome
 
 Remember that you need to open the file every time you restart your computer.
 
