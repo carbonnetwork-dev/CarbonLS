@@ -2,7 +2,7 @@
 
 <h1 align="center">Carbon</h1>
 
-This is a `.bat` file that allows you to bypass the lightspeed filtering system without needing a proxy or losing performance. The code is open-source and [safe to use](https://www.virustotal.com/gui/file/ab9b6404ba6360b45b939de7de9f2626118ec7c184ec40a2de6ec7ed0523330b)
+This is a `.bat` file that allows you to bypass the lightspeed filtering system without needing a proxy or losing performance. The code is open-source and [safe to use](https://www.virustotal.com/gui/file/a56a7d984f81c09657dbb8b61c0ad6f88aed42503c5bf09359fcfd2df139e84f)
 
 ## Getting started
 1. Click on the [`carbon.bat`](carbon.bat) file and download it.
