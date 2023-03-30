@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/carbonnetwork-dev/main/main/Carbon-logo.jpg" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carbonnetwork-dev/Carbon/main/main/CarbonLogo.jpg" height="200"></p>
 
 <h1 align="center">Carbon</h1>
 
