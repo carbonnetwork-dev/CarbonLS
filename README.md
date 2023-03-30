@@ -8,7 +8,6 @@ This is a `.bat` file that allows you to bypass the lightspeed filtering system 
 1. Click on the [`carbon.bat`](carbon.bat) file and download it.
 2. Open the file and follow the instructions.
 3. You're all set.
-D
 
 Remember that you need to open the file every time you restart your computer.
 
