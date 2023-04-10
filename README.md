@@ -14,10 +14,10 @@ Remember that you need to open the file every time you restart your computer.
 ## Legal
 I am not responsible for any disciplinary action that may befall you by using this program
 
-Carbon does not work on chromebooks or linux devices
-
 ## Compatibility
 Works with all windows versions running cmd and the lightspeed filter agent
+
+Carbon does not work on chromebooks or linux devices
 
 ### Issues
 If you have issues contact  me on discord at posh#5696 or contact stonks#7903
