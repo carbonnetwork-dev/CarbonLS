@@ -5,7 +5,7 @@
 This is a `.bat` file that allows you to bypass the lightspeed filtering system without needing a proxy or losing performance. The code is open-source and [safe to use](https://www.virustotal.com/gui/file/a56a7d984f81c09657dbb8b61c0ad6f88aed42503c5bf09359fcfd2df139e84f)
 
 ## Getting started
-1. Click on the [`carbon.bat`](https://github.com/carbonnetwork-dev/Carbon/releases/download/1.0.1/carbon.bat) file and download it.
+1. Click on the [`carbon.bat`](https://github.com/carbonnetwork-dev/Carbon/releases/download/1.0.2/carbon.bat) file and download it.
 2. Open the file and follow the instructions.
 3. You're all set.
 
