@@ -1,4 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/carbonnetwork-dev/Carbon/main/main/CarbonLogo.jpg?token=GHSAT0AAAAAAB7MEI5P6U2OIV2PKPP4P67CZBFQHKQ" height="200"></p>
+
+<img src="https://socialify.git.ci/carbonnetwork-dev/Carbon/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2Fcarbonnetwork-dev%2FCarbon%2Fblob%2Fmain%2Fmain%2FCarbonLogo-fotor-bg-remover-20230523122211.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="Carbon" width="640" height="320" />
 
 <h1 align="center">Carbon</h1>
 
